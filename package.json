@@ -1,9 +1,9 @@
 {
-  "name": "agustin-navarro-galdon-backend",
+  "name": "jordy-vega",
   "version": "0.0.1",
-  "description": "Backend para la web www.AgustinNavarroGaldon.com",
+  "description": "Backend para la web",
   "main": "index.js",
-  "author": "Agustin Navarro Galdon",
+  "author": "Jordy Vega",
   "license": "MIT",
   "dependencies": {
     "bcrypt-nodejs": "^0.0.3",
